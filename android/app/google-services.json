@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "645665589382",
+    "project_id": "instagramredesign-c4bd6",
+    "storage_bucket": "instagramredesign-c4bd6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645665589382:android:885fd30af449ae56e4a907",
+        "android_client_info": {
+          "package_name": "com.instagramredesign"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "645665589382-ovod65chvg3if3rusdk0r03mbracp1om.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAu3AVbU7Onu66x3uxiiHMydc4awqNvDQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "645665589382-ovod65chvg3if3rusdk0r03mbracp1om.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">645665589382-ovod65chvg3if3rusdk0r03mbracp1om.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">645665589382</string>
+    <string name="google_api_key" translatable="false">AIzaSyAAu3AVbU7Onu66x3uxiiHMydc4awqNvDQ</string>
+    <string name="google_app_id" translatable="false">1:645665589382:android:885fd30af449ae56e4a907</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAAu3AVbU7Onu66x3uxiiHMydc4awqNvDQ</string>
+    <string name="google_storage_bucket" translatable="false">instagramredesign-c4bd6.appspot.com</string>
+    <string name="project_id" translatable="false">instagramredesign-c4bd6</string>
+</resources>

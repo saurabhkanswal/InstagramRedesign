@@ -1,0 +1,14 @@
+com/instagramredesign/BuildConfig.java
+ com.instagramredesign.BuildConfig
+com/instagramredesign/ReactNativeFlipper.java
+ com.instagramredesign.ReactNativeFlipper
+ com.instagramredesign.ReactNativeFlipper$1
+ com.instagramredesign.ReactNativeFlipper$2
+ com.instagramredesign.ReactNativeFlipper$2$1
+com/instagramredesign/MainActivity.java
+ com.instagramredesign.MainActivity
+com/instagramredesign/MainApplication.java
+ com.instagramredesign.MainApplication
+ com.instagramredesign.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
